@@ -11,4 +11,4 @@
  The algorithm takes raw unlabelled data as an input and divides the dataset into clusters and the process is repeated until the best clusters are found.**
  
  
- ![This is an image]()
+ ![This is an image](https://github.com/chauhanshallu/Customer-Segmentation/blob/main/107938704-0a0f2e80-6f86-11eb-8dec-0e5c1261ab86.png)
